@@ -36,3 +36,5 @@ asyncio.run(func())
 #Parallelism, by contrast, is about maximizing the use of hardware resources. 
 #If you have eight CPU cores, you don’t want to max out only one while the other seven lie idle.
 # Rather, you want to launch processes or threads that make use of all those cores, if possible.
+
+..
